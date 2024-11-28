@@ -1,6 +1,6 @@
 # julia-studies
 
-![1](./Julia_Programming_Language_Logo.png)
+![1](./julia-logo.png)
 
 Júlia é uma linguagem dinâmica de alto nível e multiparadigma. Foi desenvolvida a fim de atender os requisitos da computação de alto desempenho numérico e científico.
 
